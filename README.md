@@ -1,5 +1,20 @@
 # 💫 About Me:
-i am a student at GIFT Autonomous Bhubaneswar,i am doing my B.tech in this college<br>
+Hi there, I'm Snehashis
+
+🎓 B.Tech CSE-AI student at GIFT Autonomous, Bhubaneswar
+💻 Interested in full-stack development & data analytics
+📊 Exploring Python, ML, and data-driven problem solving
+
+---
+
+🔭   **Currently working on:**
+- 🏥 **MediQueue** — Healthcare appointment management system built for Smart India Hackathon 2024 (HTML/CSS/JS)
+- 📈 **Student Performance Analytics** — End-to-end data pipeline with EDA, Logistic Regression, and Power BI dashboard
+
+⚡ **Coursework & Skills:**
+- Data Analytics with Python (internship)
+- Design and Analysis of Algorithms
+- Digital Signal Processing
 
 
 ## 🌐 Socials:
