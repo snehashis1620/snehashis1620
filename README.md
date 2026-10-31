@@ -179,6 +179,15 @@ flowchart LR
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snehashis1620&theme=nord_dark" width="49%" alt="Repos per language"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snehashis1620&theme=nord_dark" width="49%" alt="Most used languages in commits"/>
 
+<br/><br/>
+
+<h3>🐍 Contribution Snake Game</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snehashis1620/snehashis1620/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snehashis1620/snehashis1620/output/github-snake.svg"/>
+  <img alt="Contribution snake eating my GitHub contributions" src="https://raw.githubusercontent.com/snehashis1620/snehashis1620/output/github-snake-dark.svg" width="100%"/>
+</picture>
+
 </div>
 
 ---
