@@ -170,12 +170,21 @@ flowchart LR
 <img src="https://streak-stats.demolab.com?user=snehashis1620&theme=tokyonight&hide_border=true&background=0f172a&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="Streak"/>
 
 <br/><br/>
+<br/><br/>
 
-### 📈 Contribution Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehashis1620&bg_color=0f172a&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=1e3a8a&hide_border=true&radius=10&custom_title=Snehashis%20Aich%20%7C%20Contribution%20Activity" width="100%" alt="Contribution activity graph"/>
+<div align="center">
+
+<h3>📅 Contribution Graph</h3>
+<img src="https://ghchart.rshah.org/7dd3fc/snehashis1620" alt="Contribution chart" width="90%"/>
 
 <br/><br/>
 
+<h3>📈 Contribution Activity Graph</h3>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehashis1620&bg_color=0f172a&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=1e3a8a&hide_border=true&radius=10&custom_title=Snehashis%20Aich%20%7C%20Contribution%20Activity" width="100%" alt="Contribution activity graph"/>
+
+</div>
+
+<br/><br/>
 ### 🐍 Contribution Snake
 <img src="https://raw.githubusercontent.com/snehashis1620/snehashis1620/output/github-snake-dark.svg" alt="Contribution snake" width="100%"/>
 
