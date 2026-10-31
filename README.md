@@ -171,8 +171,8 @@ flowchart LR
 
 <br/><br/>
 
-### 📅 Contribution Graph
-<img src="https://ghchart.rshah.org/7dd3fc/snehashis1620" alt="Contribution chart" width="90%"/>
+### 📈 Contribution Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehashis1620&bg_color=0f172a&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=1e3a8a&hide_border=true&radius=10&custom_title=Snehashis%20Aich%20%7C%20Contribution%20Activity" width="100%" alt="Contribution activity graph"/>
 
 <br/><br/>
 
