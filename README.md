@@ -1,36 +1,236 @@
-# 💫 About Me:
-Hi there, I'm Snehashis
+<div align="center">
 
-🎓 B.Tech CSE-AI student at GIFT Autonomous, Bhubaneswar
-💻 Interested in full-stack development & data analytics
-📊 Exploring Python, ML, and data-driven problem solving
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7dd3fc&height=260&section=header&text=Snehashis%20Aich&fontSize=60&fontColor=ffffff&stroke=7dd3fc&strokeWidth=1&animation=twinkling&fontAlignY=38&desc=CSE-AI%20Student%20%7C%20Full-Stack%20%7C%20Data%20Analytics%20%7C%20Machine%20Learning&descSize=20&descAlignY=60" width="100%" alt="Snehashis Aich"/>
+
+<a href="https://github.com/snehashis1620">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=720&height=45&lines=B.Tech+CSE-AI+Student+%40+GIFT+Autonomous;Built+MediQueue+for+Smart+India+Hackathon+2024+%F0%9F%8F%A5;Turning+Data+into+Insights+with+Python+%26+Power+BI+%F0%9F%93%8A;Open+to+Internships+and+Full-Stack+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Open%20to-Internships-22c55e?style=for-the-badge&logo=target&logoColor=white" alt="Open to internships"/>
+<img src="https://komarev.com/ghpvc/?username=snehashis1620&label=Profile%20Views&color=1e3a8a&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/snehashis1620?label=Followers&style=for-the-badge&color=7dd3fc&labelColor=0f172a" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/snehashis1620?label=Stars&style=for-the-badge&color=7dd3fc&labelColor=0f172a" alt="Stars"/>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/snehashis-aich-341612352/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:snehashisaich7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.behance.net/snehashisaich"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"/></a>
+<a href="https://medium.com/@snehashisaich7"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+
+</div>
+
+---
+
+## 👋 About Me
+
+<img align="right" width="320" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=7DD3FC&width=320&lines=print('Hello%2C+World!');while+learning%3A+grow()%3B;import+data+as+insights" alt="code typing"/>
+
+Hi there, I'm **Snehashis** 👋
+
+```yaml
+name:       Snehashis Aich
+education:  B.Tech CSE (Artificial Intelligence) @ GIFT Autonomous, Bhubaneswar
+interests:  Full-Stack Development · Data Analytics · Machine Learning
+exploring:  Python · ML · data-driven problem solving
+experience: Data Analytics with Python (internship) · Smart India Hackathon 2024
+coursework: Design & Analysis of Algorithms · Digital Signal Processing
+```
 
 ---
 
-🔭   **Currently working on:**
-- 🏥 **MediQueue** — Healthcare appointment management system built for Smart India Hackathon 2024 (HTML/CSS/JS)
-- 📈 **Student Performance Analytics** — End-to-end data pipeline with EDA, Logistic Regression, and Power BI dashboard
+## 🛠️ Tech Stack
 
-⚡ **Coursework & Skills:**
-- Data Analytics with Python (internship)
-- Design and Analysis of Algorithms
-- Digital Signal Processing
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,r,js,html,css,powershell&theme=dark" alt="Languages"/>
+</p>
 
+### 🌐 Web & Full-Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,spring,graphql,tailwind,bootstrap&theme=dark" alt="Web"/>
+</p>
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/https://bsky.app/profile/snehashis16.bsky.social) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/snehashisaich) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/1543501311839047812/1543501313944326168) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100069827414789) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/its_sneha_2120/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/snehashis-aich-341612352/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@snehashisaich7) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/snehashisaich7/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Snehashis-Aich-1) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/RealStatistician2192/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/33076728/snehashis-aich) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/settings/profile) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/snehashis16t) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@SnehashisAich-T16) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Snehashis-Aich) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@https://mastodon.social/@Snehashis16) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snehashisaich7@gmail.com) 
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark" alt="Databases"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Org Mode](https://img.shields.io/badge/orgmode-%2377AA99.svg?style=for-the-badge&logo=org&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=snehashis1620&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=snehashis1620&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=snehashis1620&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📊 Data Science, AI & ML
+<p>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,tensorflow,pytorch,jupyter&theme=dark" alt="Data"/>
+  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=snehashis1620&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### ☁️ Cloud, Tools & Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,gcp,netlify,cloudflare,arduino,linux&theme=dark" alt="Tools"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+</p>
+
+### 🎨 Design & Creative
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,blender&theme=dark" alt="Design"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=snehashis1620&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 MediQueue
+**Healthcare Appointment Management System**
+*Built for Smart India Hackathon 2024* 🏆
+
+A web platform that simplifies how patients book and manage healthcare appointments, reducing queues and manual scheduling.
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="MediQueue stack"/>
+
+[![Repo](https://img.shields.io/badge/View%20Repo-7dd3fc?style=for-the-badge&logo=github&logoColor=0f172a)](https://github.com/snehashis1620/MediQueue)
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Student Performance Analytics
+**End-to-end data pipeline with an interactive dashboard**
+
+Data cleaning, EDA, a Logistic Regression model and a Power BI dashboard to understand and predict student outcomes.
+
+<img src="https://skillicons.dev/icons?i=py,pandas,numpy,sklearn,jupyter&theme=dark" alt="Analytics stack"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+
+[![Repo](https://img.shields.io/badge/View%20Repo-7dd3fc?style=for-the-badge&logo=github&logoColor=0f172a)](https://github.com/snehashis1620/Student-Performance-Analytics)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🔎 Click to expand: Student Performance Analytics pipeline</b></summary>
+
+<br/>
+
+| Stage | What I did |
+|:--|:--|
+| 🧹 **Data Cleaning** | Handled missing values, fixed data types, encoded categorical features |
+| 📊 **EDA** | Distributions, correlations and group comparisons |
+| 🤖 **Modeling** | Logistic Regression to predict student outcomes |
+| 📐 **Evaluation** | Accuracy, precision, recall, F1-score, confusion matrix |
+| 📺 **Dashboard** | Interactive Power BI report for non-technical viewers |
+
+</details>
+
+---
+
+## 🧭 My Learning Path
+
+```mermaid
+flowchart LR
+    A[💻 C / C++ / Java] --> B[🐍 Python & Data Analytics]
+    B --> C[📊 EDA & Power BI]
+    C --> D[🤖 Machine Learning]
+    A --> E[🌐 HTML / CSS / JS]
+    E --> F[⚛️ React & Node.js]
+    D --> G[🚀 AI-powered Full-Stack Apps]
+    F --> G
+```
+
+---
+
+## 🏅 Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆%20Smart%20India%20Hackathon-2024-f59e0b?style=for-the-badge&labelColor=0f172a" alt="SIH 2024"/>
+  <img src="https://img.shields.io/badge/📊%20Data%20Analytics-Python%20Internship-7dd3fc?style=for-the-badge&labelColor=0f172a" alt="Internship"/>
+  <img src="https://img.shields.io/badge/🎓%20B.Tech-CSE%20(AI)-22c55e?style=for-the-badge&labelColor=0f172a" alt="B.Tech"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=snehashis1620&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=7dd3fc&icon_color=7dd3fc&text_color=ffffff" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=snehashis1620&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=7dd3fc&text_color=ffffff" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=snehashis1620&theme=tokyonight&hide_border=true&background=0f172a&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="Streak"/>
+
+<br/><br/>
+
+### 📅 Contribution Graph
+<img src="https://ghchart.rshah.org/7dd3fc/snehashis1620" alt="Contribution chart" width="90%"/>
+
+<br/><br/>
+
+### 🐍 Contribution Snake
+<img src="https://raw.githubusercontent.com/snehashis1620/snehashis1620/output/github-snake-dark.svg" alt="Contribution snake" width="100%"/>
+
+</div>
+
+---
+
+## 🎯 Currently Working Towards
+
+- [x] Data Analytics with Python internship
+- [x] Smart India Hackathon 2024 (MediQueue)
+- [ ] Deepening Machine Learning & AI skills 🤖
+- [ ] Building full-stack projects with React & Node.js 🌐
+- [ ] Contributing to open source 🌍
+
+---
+
+## ⚡ Fun Facts
+
+<div align="center">
+
+| 🔭 Building | 🌱 Learning | 💬 Ask me about | ⚡ Fun fact |
+|:--:|:--:|:--:|:--:|
+| MediQueue & data dashboards | ML, React, Node.js | Python, Data Analytics | I design too: Figma, Photoshop & Blender |
+
+</div>
+
+> 💡 *"Data is the new oil, but only if you can refine it."*
+
+---
+
+## 🌐 More Places to Find Me
+
+<div align="center">
+
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/33076728/snehashis-aich)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Snehashis-Aich)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SnehashisAich-T16)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/snehashis16t)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/snehashis16.bsky.social)
+[![Mastodon](https://img.shields.io/badge/Mastodon-2B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@Snehashis16)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/RealStatistician2192/)
+[![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Snehashis-Aich-1)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_sneha_2120/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100069827414789)
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://in.pinterest.com/snehashisaich7/)
+
+<br/>
+
+📫 **Open to internships, collaborations and exciting projects**
+
+<br/>
+
+<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=snehashis1620&icon=0&color=0" alt="Visitor count"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,50:1e3a8a,100:0f172a&height=140&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" alt="Footer"/>
+
+</div>
